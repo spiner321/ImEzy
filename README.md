@@ -1,3 +1,3 @@
 # ImEzy
 
-- Image Creation & Change Project
+- Image creation & change Project
