@@ -1,0 +1,3 @@
+[submodule "stable-diffusion-flask"]
+	path = stable-diffusion-flask
+	url = https://github.com/aivill-project/stable-diffusion-flask.git
